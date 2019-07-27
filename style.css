@@ -10,7 +10,7 @@ body {
 #header {
 	margin-top: 64px;
 	text-align: center;
-	color: grey;
+	font-color: grey;
 }
 
 #main {
